@@ -61,14 +61,16 @@ nav ul li a:hover {
     background-color: #f2f2f2;
 }
 
-nav ul .registration-btn {
+.link-btn {
     background-color: #0092f6;
     color: #fff;
     font-weight: bold;
     border-radius: 5px;
+    padding: 10px 15px;
+    text-decoration: none;
 }
 
-nav ul .registration-btn:hover {
+.link-btn:hover {
     background-color: #0073c0;
 }
 
@@ -270,7 +272,7 @@ main p {
 }
 
 
-.action-btn a {
+/* .action-btn a {
     text-decoration: none;
     font-weight: bold;
     color: #fff;
@@ -292,7 +294,7 @@ main p {
     font-weight: bold;
     border-radius: 5px;
     transition: background-color 0.3s;
-}
+} */
 
 .text-page {
     width: 80%;
